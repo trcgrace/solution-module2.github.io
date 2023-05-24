@@ -1,5 +1,5 @@
-<style>
-	{
+
+html {
   box-sizing: border-box;
 }
 
@@ -201,7 +201,5 @@ p {
   .col-xs-12 {
     width: 100%;
   }
-
-  
 }
-</style>
+
