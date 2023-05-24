@@ -16,6 +16,12 @@ p {
   overflow: hidden;
 }
 
+
+#container {
+  position: relative;
+  
+}
+
 #p1 {
   background-color: #D59898;
   position: absolute;
