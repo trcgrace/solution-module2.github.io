@@ -23,15 +23,17 @@ p {
 }
 
 #p1 {
-  float: right;
-  width: 100px;
-  padding: 5px;
-  margin: -3px -3px 0px;
-  border: 3.5px solid black;
-  text-align: center;
-  font-size: 125%;
+  background-color: #D59898;
+  position: absolute;
+  top: 0;
+  right: 0;
   font-weight: bold;
-  background-color: #FFB6C1;
+  height: 35px;
+  width: 120px;
+  padding: 10px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+
 
 }
 #p2 {
